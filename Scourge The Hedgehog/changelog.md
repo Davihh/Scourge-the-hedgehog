@@ -1,4 +1,4 @@
-## Scourge The Hedgehog v1.2
+## Scourge The Hedgehog v1.2.1
 - Fixed Update Server
 
 ## Scourge The Hedgehog v1.1
