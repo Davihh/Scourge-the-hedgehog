@@ -1,3 +1,6 @@
+## Scourge The Hedgehog v1.3
+- Added new materials
+
 ## Scourge The Hedgehog v1.2.1
 - Fixed Update Server
 
