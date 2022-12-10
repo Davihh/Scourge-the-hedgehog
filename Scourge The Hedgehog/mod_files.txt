@@ -1,5 +1,1 @@
-add /Scourge The Hedgehog/mod.ini
-add /Scourge The Hedgehog/raw/character/playercommon.pac
-add /Scourge The Hedgehog/raw/character/sonic.pac
-add /Scourge The Hedgehog/raw/character/supersonic.pac
 add mod.ini
