@@ -1,2 +1,3 @@
-add Scourge The Hedgehog/raw/character/supersonic.pac
+add supersonic.pac
+
 add mod.ini
