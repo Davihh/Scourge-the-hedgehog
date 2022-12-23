@@ -1,6 +1,1 @@
-delete Scourge-the-hedgehog/disk/raw/character/supersonic.pac
-
-add Scourge-the-hedgehog/disk/raw/character/supersonic.pac
-add Scourge-the-hedgehog/disk/raw/character/sonic.pac
-add Scourge-the-hedgehog/disk/raw/effectcommon.pac
 add mod.ini
