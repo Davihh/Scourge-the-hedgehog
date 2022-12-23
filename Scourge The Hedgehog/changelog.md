@@ -1,4 +1,4 @@
-## Scourge The Hedgehog v1.4
+## Scourge The Hedgehog v1.4.0
 - Revamped Scourge model with new materials
 - Added new Glasses model
 - Added new Jacket model
