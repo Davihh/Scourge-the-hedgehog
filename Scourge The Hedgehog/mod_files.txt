@@ -1,11 +1,2 @@
-add main/raw/character/supersonic.pac
-add main/raw/character/sonic.pac
-add main/raw/EffectCommon.pac
-add main/raw/ui/ui_gamemodetitle_de.pac
-add main/raw/ui/ui_gamemodetitle_en.pac
-add main/raw/ui/ui_gamemodetitle_es.pac
-add main/raw/ui/ui_gamemodetitle_fr.pac
-add main/raw/ui/ui_gamemodetitle_it.pac
-add main/raw/ui/ui_gamemodetitle_ja.pac
-add main/raw/ui/ui_gamemodetitle_ko.pac
+add Scourge The Hedgehog/raw/character/supersonic.pac
 add mod.ini
